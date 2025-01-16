@@ -1,0 +1,11 @@
+# Ignore credentials file
+credentials.json
+
+# Ignore environment variables file
+.env
+
+# Ignore token files
+token.pickle
+
+# Ignore Python cache files
+__pycache__/
